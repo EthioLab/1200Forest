@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+Metro by T-Mobile Authorized Retailer 
 
 You can use the [editor on GitHub](https://github.com/EthioLab/1200Forest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
